@@ -1,0 +1,350 @@
+
+6/30/2016, 7:18:02 PM
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.11.5
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 10737418240
+
+Node.js
+  Node.js Version             = 4.4.2
+  npm Version                 = 2.15.0
+
+Titanium CLI
+  CLI Version                 = 5.0.8
+
+Titanium SDK
+  SDK Version                 = 5.3.0.GA
+  SDK Path                    = /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA
+  Target Platform             = mobileweb
+
+Command
+  /usr/local/bin/node /Users/igorvieira/.appcelerator/install/5.3.0/package/node_modules/titanium/lib/titanium.js build run --platform mobileweb --log-level trace --sdk 5.3.0.GA --project-dir /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence --deploy-type development --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 54159 --config-file /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/build-1467325078742.json --no-banner --project-dir /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence
+
+[DEBUG]  Detecting modules in /Users/igorvieira/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: facebook 5.0.0 @ /Users/igorvieira/Library/Application Support/Titanium/modules/android/facebook/5.0.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ /Users/igorvieira/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.4.1
+[DEBUG]  Detected android module: ti.map 2.3.6 @ /Users/igorvieira/Library/Application Support/Titanium/modules/android/ti.map/2.3.6
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.10 @ /Users/igorvieira/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 2.0.0 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.0.0
+[DEBUG]  Detected iphone module: facebook 5.0.1 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/facebook/5.0.1
+[DEBUG]  Detected iphone module: ti.coremotion 2.0.0 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.0
+[DEBUG]  Detected iphone module: ti.map 2.5.2 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/ti.map/2.5.2
+[DEBUG]  Detected iphone module: ti.safaridialog 1.0.5 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.0.5
+[DEBUG]  Detected iphone module: ti.touchid 1.2.0 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.2.0
+[DEBUG]  No project level plugins to load
+[INFO]   Compiling "development" build
+[INFO]   Reading Titanium Mobile Web package.json file
+[INFO]   Validating theme
+[DEBUG]  Using default theme
+[TRACE]  offline build file /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/build-6dca31b770d19472ae392d26ee7dfb6d24c0fbd7.json
+[TRACE]  online 1
+[TRACE]  optimizing build, last build was 11908.757 sec ago
+[INFO]   Copying project files
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/API.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/API.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Accelerometer.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Accelerometer.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Analytics.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Analytics.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/App/Properties.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/App/Properties.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/App.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/App.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Blob.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Blob.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/BlobStream.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/BlobStream.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Buffer.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Buffer.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/BufferStream.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/BufferStream.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Codec.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Codec.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Facebook/LoginButton.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Facebook/LoginButton.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Facebook.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Facebook.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Filesystem/File.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Filesystem/File.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Filesystem/FileStream.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Filesystem/FileStream.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Filesystem.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Filesystem.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Geolocation.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Geolocation.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Gesture.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Gesture.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/IOStream.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/IOStream.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Locale.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Locale.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Map/Annotation.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Map/Annotation.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Map/View.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Map/View.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Map.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Map.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Media/AudioPlayer.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Media/AudioPlayer.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Media/Sound.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Media/Sound.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Media/VideoPlayer.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Media/VideoPlayer.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Media.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Media.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Network/HTTPClient.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Network/HTTPClient.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Network.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Network.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Platform/DisplayCaps.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Platform/DisplayCaps.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Platform.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Platform.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/2DMatrix.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/2DMatrix.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/ActivityIndicator.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ActivityIndicator.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/ActivityIndicatorStyle.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ActivityIndicatorStyle.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/AlertDialog.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/AlertDialog.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/Animation.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Animation.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/Button.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Button.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/Clipboard.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Clipboard.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/EmailDialog.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/EmailDialog.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/ImageView.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ImageView.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/Label.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Label.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/MobileWeb/NavigationGroup.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/MobileWeb/NavigationGroup.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/MobileWeb/TableViewSeparatorStyle.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/MobileWeb/TableViewSeparatorStyle.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/MobileWeb.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/MobileWeb.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/OptionDialog.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/OptionDialog.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/Picker.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Picker.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/PickerColumn.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/PickerColumn.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/PickerRow.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/PickerRow.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/ProgressBar.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ProgressBar.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/ScrollView.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ScrollView.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/ScrollableView.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ScrollableView.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/Slider.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Slider.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/Switch.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Switch.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/Tab.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Tab.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/TabGroup.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TabGroup.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/TableView.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TableView.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/TableViewRow.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TableViewRow.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/TableViewSection.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TableViewSection.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/TextArea.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TextArea.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/TextField.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TextField.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/View.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/View.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/WebView.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/WebView.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI/Window.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Window.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/UI.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Utils.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Utils.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/XML.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/XML.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/Yahoo.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Yahoo.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Evented.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Evented.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Filesystem/Local.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Filesystem/Local.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/DoubleTap.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/DoubleTap.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/Dragging.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/Dragging.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/LongPress.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/LongPress.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/Pinch.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/Pinch.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/SingleTap.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/SingleTap.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/Swipe.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/Swipe.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/TouchCancel.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/TouchCancel.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/TouchEnd.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/TouchEnd.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/TouchMove.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/TouchMove.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/TouchStart.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/TouchStart.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Gestures/TwoFingerTap.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/TwoFingerTap.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Layouts/Base.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/Base.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Layouts/Composite.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/Composite.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Layouts/ConstrainingHorizontal.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/ConstrainingHorizontal.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Layouts/ConstrainingVertical.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/ConstrainingVertical.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Layouts/Horizontal.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/Horizontal.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Layouts/Vertical.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/Vertical.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Layouts.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/Map/Google.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Map/Google.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/UI/Element.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/Element.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/UI/FontWidget.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/FontWidget.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/UI/KineticScrollView.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/KineticScrollView.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/UI/SuperView.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/SuperView.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/UI/TextBox.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/TextBox.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/UI/WebViewBridge.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/WebViewBridge.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/UI/Widget.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/Widget.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/UI/blank.html => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/blank.html
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/analytics.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/analytics.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/browser.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/browser.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/colors.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/colors.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/css.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/css.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/declare.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/declare.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/dom.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/dom.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/encoding.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/encoding.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/event.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/event.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/has.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/has.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/image.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/image.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/include.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/include.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/lang.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/lang.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/ready.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/ready.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/string.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/string.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/style.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/style.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_/text.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/text.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti/_.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/Ti.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti.js
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/dependencies.json => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/dependencies.json
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/titanium/package.json => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/package.json
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/common.css => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/common.css
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/Facebook/login.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/Facebook/login.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/Facebook/loginPressed.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/Facebook/loginPressed.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/Facebook/loginWide.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/Facebook/loginWide.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/Facebook/loginWidePressed.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/Facebook/loginWidePressed.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/Facebook/logout.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/Facebook/logout.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/Facebook/logoutPressed.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/Facebook/logoutPressed.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/Map/location.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/Map/location.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/Map/marker_green.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/Map/marker_green.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/Map/marker_purple.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/Map/marker_purple.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/Map/marker_red.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/Map/marker_red.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/UI/TableViewRow/check.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/UI/TableViewRow/check.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/UI/TableViewRow/child.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/UI/TableViewRow/child.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/UI/TableViewRow/detail.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/UI/TableViewRow/detail.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/UI/TableViewRow/detailActive.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/UI/TableViewRow/detailActive.png
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/mobileweb/themes/default/default.css => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/themes/default/default.css
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/KS_nav_ui.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/KS_nav_ui.png
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/KS_nav_views.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/KS_nav_views.png
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/app.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/app.js
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/andre.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_close_eyes/andre.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_close_eyes/basic.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/cris.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_close_eyes/cris.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_close_eyes/moises.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/pedrito.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_close_eyes/pedrito.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_close_eyes/polite.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/roni.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_close_eyes/roni.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/andre.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_open_eyes/andre.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_open_eyes/basic.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/cris.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_open_eyes/cris.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_open_eyes/moises.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/pedrito.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_open_eyes/pedrito.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_open_eyes/polite.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/roni.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/all_open_eyes/roni.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_close_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/bodyguard_close_eyes/basic.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_close_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/bodyguard_close_eyes/moises.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_close_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/bodyguard_close_eyes/polite.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/bodyguard_open_eyes/basic.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/bodyguard_open_eyes/moises.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/bodyguard_open_eyes/polite.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_close_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/commander_close_eyes/basic.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_close_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/commander_close_eyes/moises.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_close_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/commander_close_eyes/polite.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/commander_open_eyes/basic.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/commander_open_eyes/moises.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/commander_open_eyes/polite.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/spies_close_eyes/basic.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/spies_close_eyes/moises.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/spies_close_eyes/polite.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/spies_open_eyes/basic.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/spies_open_eyes/moises.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/audio_source/spies_open_eyes/polite.mp3
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/mobileweb/appicon.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/appicon.png
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/mobileweb/apple_startup_images/Default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/Default.png
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/mobileweb/apple_startup_images/Default-Portrait.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/Default-Portrait.png
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/mobileweb/apple_startup_images/Default-Landscape.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/Default-Landscape.png
+[INFO]   Finding all Titanium API dependencies
+[INFO]   Creating favicon and Apple touch icons
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/mobileweb/appicon.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/appicon.png
+[TRACE]  Resizing images: java -jar "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/node_modules/node-appc/tools/resizer/resizer.jar" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/mobileweb/appicon.png" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/favicon.png" 16 16 "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/apple-touch-icon-precomposed.png" 57 57 "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/apple-touch-icon-57x57-precomposed.png" 57 57 "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/apple-touch-icon-72x72-precomposed.png" 72 72 "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/apple-touch-icon-114x114-precomposed.png" 114 114 "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/appicon144.png" 144 144
+[INFO]   Finding all required modules to be cached
+[INFO]   Finding all precached modules
+[INFO]   Finding all precached images
+[DEBUG]  Compiling localization files
+[DEBUG]  Processing i18n file: en/strings.xml
+[DEBUG]  Processing i18n file: ja/strings.xml
+[INFO]   Finding all distinct cached modules
+[INFO]   Found 112 dependencies, 1 package, 112 modules
+[INFO]   Assembling titanium.js
+[INFO]   Processing splash screen
+[INFO]   Assembling titanium.css
+[INFO]   Analyzing JavaScript
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/app.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/API.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Accelerometer.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Analytics.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/App/Properties.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/App.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Blob.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/BlobStream.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Buffer.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/BufferStream.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Codec.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Facebook/LoginButton.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Facebook.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Filesystem/File.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Filesystem/FileStream.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Filesystem.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Geolocation.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Gesture.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/IOStream.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Locale/en/i18n.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Locale/ja/i18n.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Locale.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Map/Annotation.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Map/View.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Map.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Media/AudioPlayer.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Media/Sound.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Media/VideoPlayer.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Media.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Network/HTTPClient.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Network.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Platform/DisplayCaps.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Platform.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/2DMatrix.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ActivityIndicator.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ActivityIndicatorStyle.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/AlertDialog.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Animation.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Button.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Clipboard.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/EmailDialog.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ImageView.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Label.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/MobileWeb/NavigationGroup.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/MobileWeb/TableViewSeparatorStyle.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/MobileWeb.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/OptionDialog.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Picker.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/PickerColumn.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/PickerRow.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ProgressBar.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ScrollView.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/ScrollableView.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Slider.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Switch.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Tab.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TabGroup.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TableView.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TableViewRow.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TableViewSection.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TextArea.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/TextField.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/View.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/WebView.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI/Window.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/UI.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Utils.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/XML.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/Yahoo.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Evented.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Filesystem/Local.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/DoubleTap.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/Dragging.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/LongPress.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/Pinch.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/SingleTap.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/Swipe.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/TouchCancel.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/TouchEnd.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/TouchMove.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/TouchStart.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Gestures/TwoFingerTap.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/Base.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/Composite.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/ConstrainingHorizontal.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/ConstrainingVertical.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/Horizontal.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts/Vertical.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Layouts.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/Map/Google.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/Element.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/FontWidget.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/KineticScrollView.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/SuperView.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/TextBox.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/WebViewBridge.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/UI/Widget.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/analytics.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/browser.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/colors.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/css.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/declare.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/dom.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/encoding.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/event.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/has.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/image.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/include.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/lang.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/ready.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/string.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/style.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_/text.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti/_.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium/Ti.js
+[DEBUG]  Analyzing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/mobileweb/titanium.js
+[INFO]   Creating the filesystem registry
+[INFO]   Creating the index.html
+[INFO]   Project built successfully in 4s 439ms

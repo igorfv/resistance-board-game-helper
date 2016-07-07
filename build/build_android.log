@@ -1,0 +1,709 @@
+
+6/30/2016, 8:07:04 PM
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.11.5
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 10737418240
+
+Node.js
+  Node.js Version             = 4.4.2
+  npm Version                 = 2.15.0
+
+Titanium CLI
+  CLI Version                 = 5.0.8
+
+Titanium SDK
+  SDK Version                 = 5.3.0.GA
+  SDK Path                    = /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA
+  Target Platform             = android
+
+Command
+  /usr/local/bin/node /Users/igorvieira/.appcelerator/install/5.3.0/package/node_modules/titanium/lib/titanium.js build run --platform android --log-level trace --sdk 5.3.0.GA --project-dir /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence --target device --android-sdk /Users/igorvieira/Library/android-sdk-macosx --device-id 0017802920 --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 54159 --config-file /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/build-1467328016577.json --no-banner --project-dir /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence
+
+[DEBUG]  Detecting modules in /Users/igorvieira/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: facebook 5.0.0 @ /Users/igorvieira/Library/Application Support/Titanium/modules/android/facebook/5.0.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ /Users/igorvieira/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.4.1
+[DEBUG]  Detected android module: ti.map 2.3.6 @ /Users/igorvieira/Library/Application Support/Titanium/modules/android/ti.map/2.3.6
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.10 @ /Users/igorvieira/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.10
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 2.0.0 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.0.0
+[DEBUG]  Detected iphone module: facebook 5.0.1 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/facebook/5.0.1
+[DEBUG]  Detected iphone module: ti.coremotion 2.0.0 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.0
+[DEBUG]  Detected iphone module: ti.map 2.5.2 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/ti.map/2.5.2
+[DEBUG]  Detected iphone module: ti.safaridialog 1.0.5 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.0.5
+[DEBUG]  Detected iphone module: ti.touchid 1.2.0 @ /Users/igorvieira/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.2.0
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK Android directory: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android
+[INFO]   Deploy type: test
+[INFO]   Building for target: device
+[INFO]   Building for device: 0017802920
+[INFO]   Targeting Android SDK API: 23
+[INFO]   Building for the following architectures: armeabi, armeabi-v7a, x86
+[INFO]   Signing with keystore: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/dev_keystore (tidev)
+[DEBUG]  App ID: com.igorvieira.resistence
+[DEBUG]  Classname: Resistence
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Forcing rebuild: JavaScript files need to be re-encrypted
+[TRACE]  offline build file /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/build-374b9423a700c5afab48b2b9629ebb87e2dc5f80.json
+[TRACE]  online 1
+[TRACE]  sending request {"json":{"username":"igor.soad@gmail.com","session":"e790a0ebd5404a84e5c8e9669bcb62dcfae6ac74 t80ViI0XaBcEdBLfarn42noTZ51IHx5ZjS1qkETLFhti00W6o6JIHQR4NILC2VPUdIk5TdVyen3mOb5sMC6+45CYwCU8U+dYrf1hJc9Maw/f7BMsdL4XAuwPGIGHZxl7oCdZDrxpjadlnh6BvoLPij2ggNzmN9v66rrut6vKMbX/Gnc2VSVJ0l2ih0aAmYRbCo8Z0uKpzJb7bEUf4BWxk7C1Rn9wfwId7b/g7QdmHSJg1T85CQPZAu2XJRAH/8fK9RYAQkJryB6uAEcEZG6cKA8+db8/yFew7z0ztOb4BkRglQlvTTV7GrMJyWzsX85ogiwUNnEutdHsyItGI4bs7TEtDB/8pxJGgyiofck0z739GYAGnhyA24ZdryMu6os630UtJQ+wk4fdNGHCNLYH4xiPPRsUv8a56kgKEknnbgSqj/z7/aV6QLmBKkhY9u7d42lsfvXP5NCMiZrK6Xw85d8FPYGOA22CXl3xiPp/plRENMz+1jLX7HzoNdsxBodlrXGMmJ2U98eAIrgXEMD/X8yhDM/u0P1MRD8b4AxU/6aKHYYFjxvUpNG9Y9LNKI4miOHf25JUxyRg85Zpx6HgctvvZtIUzvcL8tWQ8g30Ojrp8Bl1xcsj0D9dJJAT78Y8SMK4M3aKPGBxnHpBgzChDTUcGVivQIypWG7BSIzhCJyBAwR8aYfabT2U8WTvDCyG+eFAoGRc5SkglJVyPXJg+dnCyjk4ccOZQF/2L0iUmF0X0dKwwP2jf+lPPeQ58f7o5LxvnHsg1FBBwqXfD39YOg==","ipaddress":"10.12.7.26","fingerprint":"81b91eaa5b6b06df401fb7e4d4be6b780d113a4f","fingerprint_description":"Mac OSX Serial Number: C2VFDMW2DH2G","guid":"aa3fc604-d4f5-4014-9666-e875dc20d6f2","appid":"com.igorvieira.resistence","name":"resistence","org_id":100006582,"deploytype":"test","tiappxml":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ti:app \n  xmlns:ti=\"http://ti.appcelerator.org\">\n  <id>com.igorvieira.resistence</id>\n  <name>resistence</name>\n  <version>1.0</version>\n  <publisher>igorvieira</publisher>\n  <url>http://igorvieira.com.br</url>\n  <description>undefined</description>\n  <copyright>2016 by igorvieira</copyright>\n  <icon>appicon.png</icon>\n  <fullscreen>true</fullscreen>\n  <navbar-hidden>true</navbar-hidden>\n  <analytics>true</analytics>\n  <guid>aa3fc604-d4f5-4014-9666-e875dc20d6f2</guid>\n  <property name=\"ti.ui.defaultunit\" type=\"string\">dp</property>\n  <ios>\n    <enable-launch-screen-storyboard>true</enable-launch-screen-storyboard>\n    <plist>\n      <dict>\n        <key>UISupportedInterfaceOrientations~iphone</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n        </array>\n        <key>UISupportedInterfaceOrientations~ipad</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n          <string>UIInterfaceOrientationPortraitUpsideDown</string>\n          <string>UIInterfaceOrientationLandscapeLeft</string>\n          <string>UIInterfaceOrientationLandscapeRight</string>\n        </array>\n        <key>UIRequiresPersistentWiFi</key>\n        <false/>\n        <key>UIPrerenderedIcon</key>\n        <false/>\n        <key>UIStatusBarHidden</key>\n        <false/>\n        <key>UIStatusBarStyle</key>\n        <string>UIStatusBarStyleDefault</string>\n      </dict>\n    </plist>\n  </ios>\n  <android \n    xmlns:android=\"http://schemas.android.com/apk/res/android\">\n    <manifest>\n      <application android:theme=\"@style/Theme.Titanium\"/>\n    </manifest>\n  </android>\n  <mobileweb>\n    <precache/>\n    <splash>\n      <enabled>true</enabled>\n      <inline-css-images>true</inline-css-images>\n    </splash>\n    <theme>default</theme>\n  </mobileweb>\n  <modules/>\n  <deployment-targets>\n    <target device=\"android\">true</target>\n    <target device=\"ipad\">false</target>\n    <target device=\"iphone\">false</target>\n    <target device=\"mobileweb\">true</target>\n    <target device=\"windows\">false</target>\n  </deployment-targets>\n  <sdk-version>5.3.0.GA</sdk-version>\n  <property name=\"appc-app-id\" type=\"string\">57756244d9d5c8922d99b58e</property>\n</ti:app>","modules":[]},"gzip":true,"followAllRedirects":true,"url":"https://security.appcelerator.com/build-verify"}
+[TRACE]  result from /build-verify=> {"key":"8X0Pvt/VshLui1wUTwIrfQ==","pepper":"qD1Hk31jCJxgvR65+AJ3iw==","hmacKey":"vAHhpHi9EWKbscnwlw10CQ==","o":100006582,"u":"859a82e2-944d-4708-b462-2cf070e1c873","p":"free","i":"5775a61a6e7ee8092f466d48","success":true}, err=null
+[INFO]   JavaScript files need to be encrypted
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources
+[DEBUG]  Ignoring /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/.DS_Store
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/KS_nav_ui.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/KS_nav_ui.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/KS_nav_ui.png
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/KS_nav_views.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/KS_nav_views.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/KS_nav_views.png
+[DEBUG]  Ignoring /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android
+[DEBUG]  Ignoring /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/.DS_Store
+[DEBUG]  Ignoring /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/.DS_Store
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/andre.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/andre.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/andre.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/basic.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/basic.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/cris.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/cris.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/cris.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/moises.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/moises.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/pedrito.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/pedrito.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/pedrito.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/polite.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/polite.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/roni.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_close_eyes/roni.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_close_eyes/roni.mp3
+[DEBUG]  Ignoring /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/.DS_Store
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/andre.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/andre.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/andre.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/basic.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/basic.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/cris.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/cris.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/cris.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/moises.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/moises.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/pedrito.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/pedrito.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/pedrito.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/polite.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/polite.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/roni.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/all_open_eyes/roni.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/all_open_eyes/roni.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/andre.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_close_eyes/andre.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/andre.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/basic.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_close_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/basic.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/cris.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_close_eyes/cris.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/cris.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/moises.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_close_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/moises.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/pedrito.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_close_eyes/pedrito.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/pedrito.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/polite.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_close_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/polite.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/roni.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_close_eyes/roni.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_close_eyes/roni.mp3
+[DEBUG]  Ignoring /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/.DS_Store
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/andre.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/andre.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/andre.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/basic.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/basic.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/cris.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/cris.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/cris.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/moises.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/moises.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/pedrito.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/pedrito.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/pedrito.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/polite.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/polite.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/roni.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/bodyguard_open_eyes/roni.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/bodyguard_open_eyes/roni.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/andre.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_close_eyes/andre.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/andre.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/basic.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_close_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/basic.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/cris.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_close_eyes/cris.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/cris.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/moises.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_close_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/moises.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/pedrito.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_close_eyes/pedrito.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/pedrito.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/polite.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_close_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/polite.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/roni.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_close_eyes/roni.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_close_eyes/roni.mp3
+[DEBUG]  Ignoring /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/.DS_Store
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/andre.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/andre.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/andre.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/basic.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/basic.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/cris.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/cris.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/cris.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/moises.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/moises.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/pedrito.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/pedrito.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/pedrito.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/polite.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/polite.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/roni.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/commander_open_eyes/roni.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/commander_open_eyes/roni.mp3
+[DEBUG]  Ignoring /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/.DS_Store
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/andre.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/andre.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/andre.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/basic.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/basic.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/cris.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/cris.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/cris.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/moises.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/moises.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/pedrito.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/pedrito.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/pedrito.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/polite.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/polite.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/roni.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_close_eyes/roni.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_close_eyes/roni.mp3
+[DEBUG]  Ignoring /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/.DS_Store
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/andre.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/andre.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/andre.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/basic.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/basic.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/basic.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/cris.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/cris.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/cris.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/moises.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/moises.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/moises.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/pedrito.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/pedrito.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/pedrito.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/polite.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/polite.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/polite.mp3
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/roni.mp3
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/audio_source/spies_open_eyes/roni.mp3 => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/audio_source/spies_open_eyes/roni.mp3
+[DEBUG]  Ignoring /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/mobileweb
+[DEBUG]  Copying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android
+[WARN]   Overwriting file /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/appicon.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/appicon.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/appicon.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/images/res-long-land-hdpi/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/images/res-long-land-ldpi/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/images/res-long-port-hdpi/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/images/res-long-port-ldpi/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/images/res-notlong-land-hdpi/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/images/res-notlong-land-ldpi/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/images/res-notlong-land-mdpi/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/images/res-notlong-port-hdpi/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/images/res-notlong-port-ldpi/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/android/images/res-notlong-port-mdpi/default.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG]  Symlinking /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/Resources/appicon.png => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/drawable/appicon.png
+[INFO]   Processing JavaScript files
+[DEBUG]  Copying and minifying /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/Resources/app.js => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/assets/app.js
+[INFO]   Encrypting JavaScript files: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/titanium_prep.macos "com.igorvieira.resistence" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/assets" "app.js" "_app_props_.json"
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/kroll-v8.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-analytics.jar
+[DEBUG]  Adding dependency library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/aps-analytics.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-android.jar
+[DEBUG]  Adding dependency library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/jaxen-1.1.1.jar
+[DEBUG]  Adding dependency library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/ti-commons-codec-1.3.jar
+[DEBUG]  Adding dependency library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/kroll-common.jar
+[DEBUG]  Adding dependency library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/titanium.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-app.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-ui.jar
+[DEBUG]  Adding dependency library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-filesystem.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-media.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-appcompat.jar
+[DEBUG]  Adding dependency library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/android-support-v4.jar
+[DEBUG]  Adding dependency library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/android-support-v7-appcompat.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-cardview.jar
+[DEBUG]  Adding dependency library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/cardview-v7-23.0.1.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-locale.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-network.jar
+[DEBUG]  Adding library /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-xml.jar
+[INFO]   Writing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets/app.json
+[INFO]   Extracting module resources: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-analytics.res.zip
+[DEBUG]  Copying /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-njzo5s/res/values/strings.xml => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-android.res.zip
+[DEBUG]  Merging /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-d3pye1/res/values/strings.xml => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-app.res.zip
+[DEBUG]  Merging /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-1wrox2h/res/values/strings.xml => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-filesystem.res.zip
+[DEBUG]  Merging /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-1qrrxrn/res/values/strings.xml => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-media.res.zip
+[DEBUG]  Merging /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-175lmu3/res/values/strings.xml => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-locale.res.zip
+[DEBUG]  Merging /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-121jc6l/res/values/strings.xml => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-network.res.zip
+[DEBUG]  Merging /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-wul8zl/res/values/strings.xml => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-xml.res.zip
+[DEBUG]  Merging /var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-ppufmj/res/values/strings.xml => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values/strings.xml
+[DEBUG]  Removing old file: /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/.classpath
+[DEBUG]  Removing old file: /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/.gitignore
+[DEBUG]  Removing old file: /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/.project
+[DEBUG]  Removing old file: /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/AndroidManifest.xml
+[DEBUG]  Removing old file: /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/default.properties
+[DEBUG]  Removing old file: /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/java-sources.txt
+[DEBUG]  Copying template /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/templates/build/AppInfo.java => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/gen/com/igorvieira/resistence/ResistenceAppInfo.java
+[DEBUG]  Copying template /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/templates/build/App.java => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/gen/com/igorvieira/resistence/ResistenceApplication.java
+[DEBUG]  Copying template /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/templates/build/Activity.java => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/gen/com/igorvieira/resistence/ResistenceActivity.java
+[DEBUG]  Copying template /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/templates/build/project => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/.project
+[DEBUG]  Copying template /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/templates/build/default.properties => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/default.properties
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/templates/build/gitignore => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/.gitignore
+[DEBUG]  Copying /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/templates/build/classpath => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/.classpath
+[INFO]   No aidl files to compile, continuing
+[INFO]   Generating i18n files
+[DEBUG]  Compiling localization files
+[DEBUG]  Processing i18n file: en/strings.xml
+[DEBUG]  Processing i18n file: ja/strings.xml
+[DEBUG]  Merging en strings => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values/strings.xml
+[DEBUG]  Writing ja strings => /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values-ja/strings.xml
+[INFO]   Generating /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res/values/theme.xml
+[INFO]   Packaging application: /Users/igorvieira/Library/android-sdk-macosx/build-tools/23.0.1/aapt "package" "-f" "-m" "-J" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/gen" "-M" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/AndroidManifest.xml" "-A" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/assets" "-S" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/res" "-I" "/Users/igorvieira/Library/android-sdk-macosx/platforms/android-23/android.jar" "-F" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/app.ap_" "--auto-add-overlay" "--extra-packages" "ti.modules.titanium.ui:android.support.v7.appcompat:android.support.v7.cardview" "-S" "/var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-5lqo4r/res" "-S" "/var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-vwkgmk/res" "-S" "/var/folders/bt/dcyl3drd0fd3sp32t5x3n5040000gn/T/116530-860-nteiv1/res"
+[INFO]   Building Java source files: /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/bin/javac "-J-Xmx1024M" "-encoding" "utf8" "-bootclasspath" "/Users/igorvieira/Library/android-sdk-macosx/platforms/android-23/android.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/kroll-v8.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-analytics.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/aps-analytics.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-android.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/jaxen-1.1.1.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/ti-commons-codec-1.3.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/kroll-common.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/titanium.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-app.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-ui.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/nineoldandroids-appc-2.4.0.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-filesystem.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-media.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-appcompat.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/android-support-v4.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/android-support-v7-appcompat.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-cardview.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/cardview-v7-23.0.1.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-locale.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-network.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-xml.jar:/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/lib/titanium-verify.jar:R.class:AssetCryptImpl.class:ResistenceActivity.class:ResistenceAppInfo.class:ResistenceApplication.class" "-d" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/classes" "-proc:none" "-target" "1.6" "-source" "1.6" "@/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/java-sources.txt"
+[INFO]   Running dexer: /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/bin/java "-Xmx1024M" "-XX:-UseGCOverheadLimit" "-Djava.ext.dirs=/Users/igorvieira/Library/android-sdk-macosx/platform-tools" "-jar" "/Users/igorvieira/Library/android-sdk-macosx/build-tools/23.0.1/lib/dx.jar" "--dex" "--output=/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/classes.dex" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/classes" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/lib/titanium-verify.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/kroll-v8.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-analytics.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/aps-analytics.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-android.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/jaxen-1.1.1.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/ti-commons-codec-1.3.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/kroll-common.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/titanium.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-app.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-ui.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/nineoldandroids-appc-2.4.0.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-filesystem.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-media.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-appcompat.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/android-support-v4.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/android-support-v7-appcompat.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-cardview.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/cardview-v7-23.0.1.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-locale.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-network.jar" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-xml.jar"
+[INFO]   Creating unsigned apk
+[DEBUG]  Processing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/app.ap_
+[DEBUG]  Deflating AndroidManifest.xml
+[DEBUG]  Adding assets/Resources/KS_nav_ui.png
+[DEBUG]  Adding assets/Resources/KS_nav_views.png
+[DEBUG]  Adding assets/Resources/appicon.png
+[DEBUG]  Adding assets/Resources/audio_source/all_close_eyes/andre.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_close_eyes/basic.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_close_eyes/cris.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_close_eyes/moises.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_close_eyes/pedrito.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_close_eyes/polite.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_close_eyes/roni.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_open_eyes/andre.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_open_eyes/basic.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_open_eyes/cris.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_open_eyes/moises.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_open_eyes/pedrito.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_open_eyes/polite.mp3
+[DEBUG]  Adding assets/Resources/audio_source/all_open_eyes/roni.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_close_eyes/andre.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_close_eyes/basic.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_close_eyes/cris.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_close_eyes/moises.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_close_eyes/pedrito.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_close_eyes/polite.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_close_eyes/roni.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_open_eyes/andre.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_open_eyes/basic.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_open_eyes/cris.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_open_eyes/moises.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_open_eyes/pedrito.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_open_eyes/polite.mp3
+[DEBUG]  Adding assets/Resources/audio_source/bodyguard_open_eyes/roni.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_close_eyes/andre.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_close_eyes/basic.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_close_eyes/cris.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_close_eyes/moises.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_close_eyes/pedrito.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_close_eyes/polite.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_close_eyes/roni.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_open_eyes/andre.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_open_eyes/basic.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_open_eyes/cris.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_open_eyes/moises.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_open_eyes/pedrito.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_open_eyes/polite.mp3
+[DEBUG]  Adding assets/Resources/audio_source/commander_open_eyes/roni.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_close_eyes/andre.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_close_eyes/basic.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_close_eyes/cris.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_close_eyes/moises.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_close_eyes/pedrito.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_close_eyes/polite.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_close_eyes/roni.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_open_eyes/andre.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_open_eyes/basic.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_open_eyes/cris.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_open_eyes/moises.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_open_eyes/pedrito.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_open_eyes/polite.mp3
+[DEBUG]  Adding assets/Resources/audio_source/spies_open_eyes/roni.mp3
+[DEBUG]  Deflating assets/app.json
+[DEBUG]  Deflating assets/index.json
+[DEBUG]  Deflating res/anim/abc_fade_in.xml
+[DEBUG]  Deflating res/anim/abc_fade_out.xml
+[DEBUG]  Deflating res/anim/abc_grow_fade_in_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_popup_enter.xml
+[DEBUG]  Deflating res/anim/abc_popup_exit.xml
+[DEBUG]  Deflating res/anim/abc_shrink_fade_out_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_top.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_top.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color-v23/abc_color_highlight_material.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_light.xml
+[DEBUG]  Deflating res/color/abc_search_url_text.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_light.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_dark.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_light.xml
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-long-land-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-land-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-port-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-port-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-notlong-land-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-land-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-land-mdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-mdpi-v4/background.png
+[DEBUG]  Deflating res/drawable-v21/abc_action_bar_item_background_material.xml
+[DEBUG]  Deflating res/drawable-v21/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable-v23/abc_control_background_material.xml
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Deflating res/drawable/abc_btn_borderless_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_check_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_default_mtrl_shape.xml
+[DEBUG]  Deflating res/drawable/abc_btn_radio_material.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_internal_bg.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_top_material.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_dark.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_light.xml
+[DEBUG]  Deflating res/drawable/abc_edit_text_material.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_ratingbar_full_material.xml
+[DEBUG]  Deflating res/drawable/abc_spinner_textfield_background_material.xml
+[DEBUG]  Deflating res/drawable/abc_switch_thumb_material.xml
+[DEBUG]  Deflating res/drawable/abc_tab_indicator_material.xml
+[DEBUG]  Deflating res/drawable/abc_text_cursor_material.xml
+[DEBUG]  Deflating res/drawable/abc_textfield_search_material.xml
+[DEBUG]  Adding res/drawable/appicon.png
+[DEBUG]  Adding res/drawable/background.png
+[DEBUG]  Adding res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding res/drawable/btn_more_64.png
+[DEBUG]  Adding res/drawable/disclosure_64.png
+[DEBUG]  Deflating res/layout-v17/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_search_view.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_lines.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout-v21/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_title_item.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_up_container.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_view_list_nav_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_bar.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_close_item_material.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view_list_item.xml
+[DEBUG]  Deflating res/layout/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout/abc_expanded_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_checkbox.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_icon.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_radio.xml
+[DEBUG]  Deflating res/layout/abc_popup_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_screen_content_include.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple_overlay_action_mode.xml
+[DEBUG]  Deflating res/layout/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout/abc_search_dropdown_item_icons_2line.xml
+[DEBUG]  Deflating res/layout/abc_search_view.xml
+[DEBUG]  Deflating res/layout/abc_select_dialog_material.xml
+[DEBUG]  Deflating res/layout/notification_media_action.xml
+[DEBUG]  Deflating res/layout/notification_media_cancel_action.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout/notification_template_lines.xml
+[DEBUG]  Deflating res/layout/notification_template_media.xml
+[DEBUG]  Deflating res/layout/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout/select_dialog_item_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_multichoice_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_singlechoice_material.xml
+[DEBUG]  Deflating res/layout/support_simple_spinner_dropdown_item.xml
+[DEBUG]  Deflating res/layout/titanium_tabgroup.xml
+[DEBUG]  Deflating res/layout/titanium_ui_checkbox.xml
+[DEBUG]  Deflating res/layout/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_edittext.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_item.xml
+[DEBUG]  Deflating res/layout/titanium_ui_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_switchcompat.xml
+[DEBUG]  Deflating res/layout/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating resources.arsc
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/kroll-v8.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-analytics.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/aps-analytics.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-android.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/jaxen-1.1.1.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/ti-commons-codec-1.3.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/kroll-common.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/titanium.jar
+[DEBUG]  Deflating org/appcelerator/titanium/build.properties
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/background.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-app.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-ui.jar
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-filesystem.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-media.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-appcompat.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/android-support-v4.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/android-support-v7-appcompat.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-cardview.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/cardview-v7-23.0.1.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-locale.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-network.jar
+[DEBUG]  Processing /Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/modules/titanium-xml.jar
+[DEBUG]  Adding classes.dex
+[INFO]   Processing /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/src
+[DEBUG]  Adding lib/armeabi/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi/libtiverify.so
+[DEBUG]  Adding lib/armeabi-v7a/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi-v7a/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi-v7a/libtiverify.so
+[DEBUG]  Adding lib/x86/libkroll-v8.so
+[DEBUG]  Adding lib/x86/libstlport_shared.so
+[DEBUG]  Adding lib/x86/libtiverify.so
+[INFO]   Writing unsigned apk: /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/app-unsigned.apk
+[INFO]   Using MD5withRSA signature algorithm
+[INFO]   Signing apk: /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/bin/jarsigner "-sigalg" "MD5withRSA" "-digestalg" "SHA1" "-keystore" "/Users/igorvieira/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/android/dev_keystore" "-storepass" "*******" "-signedjar" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/resistence.apk" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/app-unsigned.apk" "tidev"
+[INFO]   Aligning zip file: /Users/igorvieira/Library/android-sdk-macosx/build-tools/23.0.1/zipalign "-v" "4" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/resistence.apk" "/Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/resistence.apkz"
+[INFO]   Writing build manifest: /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/build-manifest.json
+[INFO]   Making sure the adb server is running
+[INFO]   Installing apk: /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/resistence.apk
+[INFO]   Installing app on device: XT1225
+[TRACE]  Checking if package manager service is started
+[TRACE]  Package manager has started
+[TRACE]  Executing: /Users/igorvieira/Library/android-sdk-macosx/platform-tools/adb -s 0017802920 install -r /Users/igorvieira/Documents/Appcelerator_Studio_Workspace/resistence/build/android/bin/resistence.apk
+[INFO]   App successfully installed
+[INFO]   Starting app: com.igorvieira.resistence/.ResistenceActivity
+[DEBUG]  Trying to start the app...
+[INFO]   Application pid: 11308
+[INFO]   Project built successfully in 53s 540ms
