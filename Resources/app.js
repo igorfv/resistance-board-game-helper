@@ -1,7 +1,7 @@
 var settings = {
 	'status': false,
 	'step': 0,
-	'time': 4 * 1000,
+	'time': 2 * 1000,
 	'modes' : [],
 	'players' : [],
 	'playlist' : {
@@ -18,9 +18,10 @@ var availableModes = [
 ];
 
 var availablePlayers = [
+	{name: "Básico", action: 'basic'},
+	{name: "Educado", action: 'polite'},
 	{name: "André", action: 'andre'},
 	{name: "Cris", action: 'cris'},
-	// {name: "Figaro", action: 'figaro'},
 	{name: "Moisés", action: 'moises'},
 	{name: "Pedrito", action: 'pedrito'},
 	{name: "Roni", action: 'roni'}
@@ -301,7 +302,11 @@ var buildPlaylistSequence = function() {
 };
 
 var buildPlaylistPlayers = function() {
-	settings.playlist.players = ['basic', 'polite'];
+	settings.playlist.players = [];
+	
+	if(settings.players.length < 1) {
+		settings.playlist.players = ['basic', 'polite'];		
+	}
 	
 	settings.players.forEach(function(val, key){
 		settings.playlist.players.push(val);
