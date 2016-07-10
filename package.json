@@ -1,0 +1,19 @@
+{
+  "name": "resistence-setup-helper",
+  "version": "1.0.0",
+  "description": "A resistence board game setup helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorfv/resistance-board-game-helper.git"
+  },
+  "author": "Igor Frias Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorfv/resistance-board-game-helper/issues"
+  },
+  "homepage": "https://github.com/igorfv/resistance-board-game-helper#readme"
+}
